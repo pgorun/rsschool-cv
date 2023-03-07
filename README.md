@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pgorun.github.io/rsschool-cv/
