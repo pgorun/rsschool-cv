@@ -16,7 +16,15 @@ Frontend Developer
 * Git
 ## Experience
 ***
+## Code Example
+```javascript
+function sum(a, b) {
+  return a + b;
+}
+```
+***
 ## Education
 * [RSATU]([RSATU](https://www.rsatu.ru/))
+***
 ## English
 **B1**
